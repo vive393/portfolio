@@ -1,5 +1,3 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
 import ttt from '../assets/projects/ttt.png'
 import sv from '../assets/projects/sv.png'
 import sg from '../assets/projects/sg.png'
